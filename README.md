@@ -54,9 +54,9 @@ I </ code > for FUN in any language including
  ## 💻 my Projects 
  
  - [x] Emogify 
- - [x] ROBO- A Chatbot
- - [ ] Sorting Visualizer
+ - [x] ROBO - A Chatbot
  - [x] E-commerce website
+ - [ ] Sorting Visualizer
  - [ ] Auto-generate Portfolio 
  - [x] Email Alerts on WhatsApp
  
