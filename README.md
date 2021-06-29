@@ -35,7 +35,6 @@ I </ code > for FUN in any language including
  <a href="https://stackoverflow.com/users/12315531/aj7t">
     <img align="left" alt="aj7t | Stack Overflow" width="24px" src="https://bit.ly/3uwRPgY" />
   </a>   
- 
 <br><br><Br>
  
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills:
@@ -51,7 +50,18 @@ I </ code > for FUN in any language including
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 <br/> <br/>
+  
+ ## 💻 my Projects 
+ 
+ - [x] Emogify 
+ - [ ] Sorting Visualizer
+ - [x] E-commerce website
+ - [ ] auto-generate Resume 
+ - [x] Email Alerts on WhatsApp
 
 
 ##  🚀🚀 GitHub Status:
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aj7t&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+ 
+ 
+  
