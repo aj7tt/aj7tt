@@ -48,6 +48,7 @@ I </ code > for FUN in any language including
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+ <img alt="PHP" src="https://img.shields.io/badge/php%20-%23E34F26.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 <br/> <br/>
   
