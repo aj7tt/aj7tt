@@ -66,7 +66,7 @@ I </ code > for FUN in any language including
 
 ##  🚀🚀 GitHub Status 
    
-<img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&layout=compact&theme=tokyonight" alt="Ajit" /><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aj7t&theme=tokyonight"><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aj7t&theme=tokyonight">
+<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&layout=compact&theme=tokyonight" alt="Ajit" /><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aj7t&theme=tokyonight"><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aj7t&theme=tokyonight">
  
  
  
