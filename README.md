@@ -66,16 +66,14 @@ I </ code > for FUN in any language including
 
 ##  🚀🚀 GitHub Status 
  
-<table>
-<tr>
+
 <th>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj7t&theme=tokyonight"></th>
 
 <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&layout=compact&theme=tokyonight" alt="Ajit" /></th>
   <th><img src="https://github-readme-stats.vercel.app/api?username=aj7t&theme=tokyonight"></th>
-</tr>
-</table>
+ 
 <hr>
 
  
