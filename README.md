@@ -64,10 +64,9 @@ I </ code > for FUN in any language including
  
 <br>
 
-##  🚀🚀 GitHub Status:
- <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&layout=compact&theme=tokyonight" alt="Ajit" />
+##  🚀🚀 GitHub Status: 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aj7t&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashishkumar123&theme=tokyonight">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj7t&theme=tokyonight">
  
  
   
