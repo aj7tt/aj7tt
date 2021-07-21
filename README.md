@@ -1,6 +1,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p>
-### < Hello World /> <img width="45px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif"> <hr>
+### <!--< Hello World /> <img width="45px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif"> <hr>-->
+
+![image](https://user-images.githubusercontent.com/67835881/126473060-f7a04106-17b4-4b37-a149-a02cfae564fb.png)
+
 
 <!--- 
 https://i.imgur.com/HeYsOD4.gif
