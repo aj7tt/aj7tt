@@ -23,7 +23,8 @@ I </ code > for FUN in any language including
 - 💬 [Ask me](https://twitter.com/_aj7t?lang=en) about anything, I am happy to help anytime!  <br>
 - 📫 How to reach me: [@_aj7t](https://twitter.com/_aj7t?lang=en) <br>
 - 🤝 Let's Connect:  <br>
-   <a href="https://twitter.com/_aj7t?lang=en">
+
+  <a href="https://twitter.com/_aj7t?lang=en">
     <img align="left" alt="aj7t | Twitter" width="26px" src="https://bit.ly/3p7kNmj" />
 </a> 
  
