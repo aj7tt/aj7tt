@@ -24,9 +24,6 @@ I </ code > for FUN in any language including
 - 📫 How to reach me: [@_aj7t](https://twitter.com/_aj7t?lang=en) <br>
 - 🤝 Let's Connect: <br>  
 
-<a href="https://www.linkedin.com/in/aj7t/">
-    <img align="left" alt="aj7t | Linkedin" width="24px" src="https://bit.ly/2SGt70k" />
-  </a>
    <a href="https://twitter.com/_aj7t?lang=en">
     <img align="left" alt="aj7t | Twitter" width="26px" src="https://bit.ly/3p7kNmj" />
 </a> 
