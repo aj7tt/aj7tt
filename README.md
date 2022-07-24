@@ -18,8 +18,8 @@ I </ code > for FUN in any language including
  | :---: | :---: | :---: | :---: | 
 
  
-- ✨ I’m currently working as intern at [#Silverbullet]() <br>
-- 🎯 I'm currently practising [javascript and React.js](https://github.com/Aj7t/A-Tour-of-JavaScript) <br>
+- ✨ I’m currently working as software Engineer at [#Silverbullet]() <br>
+- 🎯 I'm currently working on [FastAPI and REST API](https://github.com/Aj7t/A-Tour-of-JavaScript) <br>
 - 💬 [Ask me](https://twitter.com/_aj7t?lang=en) about anything, I am happy to help anytime!  <br>
 - 📫 How to reach me: [@_aj7t](https://twitter.com/_aj7t?lang=en) <br>
 - 🤝 Let's Connect:  <br>
