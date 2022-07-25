@@ -24,7 +24,7 @@ I </ code > for FUN in any language including
 - 📫 How to reach me: [@aj7ttt](https://twitter.com/aj7ttt?lang=en) <br>
 - 🤝 Let's Connect: [@aj7tt](https://linktr.ee/aj7tt) <br>
   
-<br><br><Br>
+<br><br>
  
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  My Skills:
 <div class="row">
