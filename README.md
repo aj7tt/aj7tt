@@ -22,7 +22,7 @@ I </ code > for FUN in any language including
 - 🎯 I'm currently working on [FastAPI and REST API](https://github.com/Aj7t/Microservice-APIs) <br>
 - 💬 [Ask me](https://twitter.com/aj7ttt?lang=en) about anything, I am happy to help anytime!  <br>
 - 📫 How to reach me: [@aj7ttt](https://twitter.com/aj7ttt?lang=en) <br>
-- 🤝 Let's Connect:  <br>
+- 🤝 Let's Connect: [Aj7tt](https://linktr.ee/aj7tt) <br>
   
 <br><br><Br>
  
