@@ -1,6 +1,6 @@
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/aj7tt?style=social)
 <br>
-![Profile views](https://gpvc.arturio.dev/aj7tt)
+![](https://komarev.com/ghpvc/?username=aj7tt&color=green)
 
 # Hi there! 👋
 
