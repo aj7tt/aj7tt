@@ -18,23 +18,6 @@ I'm [Ajit](https://github.com/aj7tt), a passionate software developer based in [
 - Tools: Git, VS Code, Postman
 - ...
 
----
-
-## 📦 Projects
-
-- [Project 1]([https://github.com/your-username/project-1](https://github.com/aj7tt/Emogify))
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
-- ...
-
----
-
-## 🌐 Connect with Me
-
-- [GitHub](https://github.com/aj7tt)
-- [LinkedIn](https://www.linkedin.com/in/aj7t)
-- [Twitter](https://twitter.com/aj7t)
-- [Personal Website](https://www.your-website.com)
 
 ---
 
