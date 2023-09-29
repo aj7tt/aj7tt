@@ -35,4 +35,4 @@ Here's a visual overview of my GitHub activity:
 
 ## 👥 Recommendation
 
-[View more Recommendations on LinkedIn](https://www.linkedin.com/in/aj7t/details/recommendations/)
+[View Recommendations on LinkedIn](https://www.linkedin.com/in/aj7t/details/recommendations/)
