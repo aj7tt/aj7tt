@@ -6,7 +6,7 @@
 I'm [Ajit](https://github.com/aj7tt), a passionate software developer based in [India](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_your_location). I have a deep love for coding and a strong desire to explore new technologies, with a keen interest in machine learning, software development, and making the web accessible. 
 |
 
-You can also connect with me on [Twitter](https://twitter.com/aj7ttt), [dev](https://dev.to/aj7tt)
+You can also connect with me on [Twitter](https://twitter.com/aj7ttt),  [Dev.to](https://dev.to/aj7tt)
 
 ## 🔧 Skills
 
