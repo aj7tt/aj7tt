@@ -10,40 +10,38 @@ I'm [Ajit](https://github.com/aj7tt), a passionate software developer based in [
 You can also connect with me on [Twitter](https://twitter.com/aj7ttt).
 
 ---
-
 ## 🔧 Skills
 
 - **Programming Languages:** 
-  - <img src="https://example.com/python-logo.png" alt="Python" width="20" height="20"> Python 
-  - <img src="https://example.com/javascript-logo.png" alt="JavaScript" width="20" height="20"> JavaScript
-  - <img src="https://example.com/cplusplus-logo.png" alt="C++" width="20" height="20"> C++
-  - <img src="https://example.com/java-logo.png" alt="Java (Basic)" width="20" height="20"> Java (Basic)
-  - <img src="https://example.com/html-logo.png" alt="HTML" width="20" height="20"> HTML
-  - <img src="https://example.com/css-logo.png" alt="CSS" width="20" height="20"> CSS
+  - ![Python](https://example.com/python-logo.png) Python 
+  - ![JavaScript](https://example.com/javascript-logo.png) JavaScript
+  - ![C++](https://example.com/cplusplus-logo.png) C++
+  - ![Java (Basic)](https://example.com/java-logo.png) Java (Basic)
+  - ![HTML](https://example.com/html-logo.png) HTML
+  - ![CSS](https://example.com/css-logo.png) CSS
 
 - **Web Development:** 
-  - <img src="https://example.com/fastapi-logo.png" alt="FASTAPI" width="20" height="20"> FASTAPI
-  - <img src="https://example.com/django-logo.png" alt="Django" width="20" height="20"> Django
+  - ![FASTAPI](https://example.com/fastapi-logo.png) FASTAPI
+  - ![Django](https://example.com/django-logo.png) Django
   - REST API, Web Services, JSON
-  - <img src="https://example.com/flask-logo.png" alt="Flask (Basic)" width="20" height="20"> Flask (Basic)
+  - ![Flask (Basic)](https://example.com/flask-logo.png) Flask (Basic)
 
 - **Databases:** 
-  - <img src="https://example.com/mysql-logo.png" alt="MySQL" width="20" height="20"> MySQL
-  - <img src="https://example.com/sqlalchemy-logo.png" alt="SQLAlchemy (ORM)" width="20" height="20"> SQLAlchemy (ORM)
-  - <img src="https://example.com/postgresql-logo.png" alt="PostgreSQL (Basic)" width="20" height="20"> PostgreSQL (Basic)
+  - ![MySQL](https://example.com/mysql-logo.png) MySQL
+  - ![SQLAlchemy (ORM)](https://example.com/sqlalchemy-logo.png) SQLAlchemy (ORM)
+  - ![PostgreSQL (Basic)](https://example.com/postgresql-logo.png) PostgreSQL (Basic)
   - SQLite, Django ORM
 
 - **Problem-Solving:** 
   - API Design, Data Structures, Algorithms
-  - <img src="https://example.com/debugging-logo.png" alt="Debugging Skills" width="20" height="20"> Debugging Skills
+  - ![Debugging Skills](https://example.com/debugging-logo.png) Debugging Skills
 
 - **Tools & Technologies:** 
-  - <img src="https://example.com/git-logo.png" alt="Git" width="20" height="20"> Git
+  - ![Git](https://example.com/git-logo.png) Git
   - Bitbucket, Redis
-  - <img src="https://example.com/pycharm-logo.png" alt="PyCharm" width="20" height="20"> PyCharm
-  - <img src="https://example.com/vscode-logo.png" alt="Visual Studio Code" width="20" height="20"> Visual Studio Code
+  - ![PyCharm](https://example.com/pycharm-logo.png) PyCharm
+  - ![Visual Studio Code](https://example.com/vscode-logo.png) Visual Studio Code
   - AWS (Basic), Web Servers
-
 
 ---
 
@@ -78,6 +76,8 @@ Here's a recommendation from Ahmad Quadri, a first-degree connection who worked 
 > Ahmad Quadri, who attended Indian School of Mines, Dhanbad, and worked with me on the same team, has this to say:
 
 "I strongly recommend Ajit for his dynamic approach, consistent dedication to work, and his ability to come up with innovative solutions. He's an invaluable team member who consistently delivers outstanding results. I like his approach while solving problems or bugs; he does not try to patch some code, instead he comes up with the ideas and solves them efficiently and elegantly."
+
+[View more Recommendations on LinkedIn](https://www.linkedin.com/in/aj7t/details/recommendations/)
 
 ---
  
