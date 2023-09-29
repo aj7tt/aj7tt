@@ -35,4 +35,6 @@ Here's a visual overview of my GitHub activity:
 
 ## 👥 Recommendation
 
+![image](https://github.com/aj7tt/aj7tt/assets/67835881/22a93d22-59ff-4710-b490-151976213955)
+
 [View Recommendations on LinkedIn](https://www.linkedin.com/in/aj7t/details/recommendations/)
