@@ -4,7 +4,6 @@
 ## Hi there ! 👨‍💻
 
 I'm [Ajit](https://github.com/aj7tt), a passionate software developer based in [India](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_your_location). I have a deep love for coding and a strong desire to explore new technologies, with a keen interest in machine learning, software development, and making the web accessible. Welcome to my GitHub profile!
-
 You can also connect with me on [Twitter](https://twitter.com/aj7ttt).
 
 ## 🔧 Skills
@@ -33,11 +32,5 @@ Here's a visual overview of my GitHub activity:
 | --- | --- |
 
 ## 👥 Recommendation
-
-Here's a recommendation from Ahmad Quadri, a first-degree connection who worked with me:
-
-> Ahmad Quadri, who attended Indian School of Mines, Dhanbad, and worked with me on the same team, has this to say:
-
-"I strongly recommend Ajit for his dynamic approach, consistent dedication to work, and his ability to come up with innovative solutions. He's an invaluable team member who consistently delivers outstanding results. I like his approach while solving problems or bugs; he does not try to patch some code, instead he comes up with the ideas and solves them efficiently and elegantly."
 
 [View more Recommendations on LinkedIn](https://www.linkedin.com/in/aj7t/details/recommendations/)
