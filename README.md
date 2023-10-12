@@ -33,8 +33,3 @@ Here's a visual overview of my GitHub activity:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aj7tt&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aj7tt&layout=compact&theme=dark) |
 | --- | --- |
 
-## 👥 Recommendation
-
-![image](https://github.com/aj7tt/aj7tt/assets/67835881/22a93d22-59ff-4710-b490-151976213955)
-
-[View Recommendations on LinkedIn](https://www.linkedin.com/in/aj7t/details/recommendations/)
