@@ -3,10 +3,8 @@
 
 ## Hi there ! 👨‍💻
 
-I'm [Ajit](https://github.com/aj7tt), a passionate software developer based in Pune, India. I have a deep love for coding and a strong desire to explore new technologies.
-|
 
-You can also connect with me on [Twitter](https://twitter.com/aj7ttt),  [Dev.to](https://dev.to/aj7tt)
+[Twitter](https://twitter.com/aj7ttt),  [Dev.to](https://dev.to/aj7tt)
 
 ## 🔧 Skills
 
